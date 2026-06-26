@@ -1,0 +1,5 @@
+Project Name: GenAI Dynamic Bot
+Developer: Vishakha Mortade
+College: Hiray College, Mumbai University
+Course: MCA (Master of Computer Applications)
+Secret Key: The secret password for this project is "Gen-Dragon-2026".

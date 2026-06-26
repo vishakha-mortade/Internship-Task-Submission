@@ -1,0 +1,6 @@
+streamlit>=1.42.0
+pandas>=2.2.0
+langchain>=1.2.10
+langchain-community>=0.4.1
+langchain-google-genai>=4.2.0
+faiss-cpu>=1.13.2
